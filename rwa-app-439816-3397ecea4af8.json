@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rwa-app-439816",
+  "private_key_id": "3397ecea4af8b0e3b5620981c8525512ec9536bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCulN/SDr18CFSp\nRyN+AlnW5sOL/YJJdDG3rBhvm5xv6h7SxLuB/gqhQbGHhyuPX8+yLgxbOyEPoOw0\nP2+qqihnaF9QyxfNwEzNS66mgDyrlVg9+56ic2P73/98uu6xNYut6Ph9MK4CsafI\nyYa7QG0YYs/QRukJVew+vCyzWb9yEOkQB2JWx9UIc4iF4I1LqphQFl4er8oOQz+6\ndUCuX739XzsQKjoC6RyqXKd+U3BdhLFxfcnjFMmQNMCSouIBuzEGMfQe4g/UzK/j\nDOH259hyxwgvYNyP0sdkhhWYnXrlKNIOzRQseGHLntONIOMssjTRmoq2F+8rDtuD\nOaw3nFBVAgMBAAECggEAHfqmrLWnSENN9num1p6kusiJz+JKmz5+wyGkWJYKORWl\nEWCDKoFrZeGYEMPfcRFs4xYRPSFcPgjORvKVxGLP6WH87CzT+5sIFUDnzuO6h2Rv\n8MTiqtbR1pDSmKKpFnkxcT3OXgEcAI5tV4dzwXgAw+1D7moe3mGI3gUGUA4bWATS\nojZCw+fIaNua9LJLIPTr7JV7fgnhFTFBm9zx0LKq5HlQT262XDJTSQJkPhxJq2OH\ndRZe6VN8GdBP77TsvODur5NByETfcBEe/f7O0g19Kbb4fHvai1Wxrwsz8HNlku2e\nnNiLbjjC6pKpWCXNRgp/AssZ698Qz4WqGjpy2LKaAQKBgQDg2USeiMyOQ2fgbqVN\nmaEruyv6nhvX7Q2ZrWaumljnmBQEnX8p2WcC/fGXjAhak9oD35OXWV5vw51xSKON\nR8u6FGGeNmGcupm2rPpyvh/k/cN6foRmCLnvaNG7h0vjOCc/iSJUFOpekr+6ELkV\nXUVmwsMvjD09dly6WUJdQKqGlQKBgQDGxMaQb+KztytTSATi5yDVgRfhwvglSYKn\nQP/iEQNX/BrVb40h1shm2RoB4InIOevDEzchHspKZHGZoJmjwWdx1m1abEkiax80\nX+6Q3lSAsQTG+zzX58SzTCo086ApY4EyMuKoR92xno/wtD9H970gArEIeiFgtiQO\nsgdjo4TywQKBgQDa8bXnyb2mKezUlelRDu/p7XB9scfbEnHT2w3Jp3I60dNsSxCw\nZ4nvV+gQccMQsDfy3ZqSHevfWNPOo7TetbKjl4UW0k1qmCllwDp/0LKuAIyAkwHJ\neWXUwnS37p7uupc9PwO2bEdrn+oh/Ha9Xv1devklK6HWX5Mbwh7lPzrNoQKBgCdJ\n2d3O38aaHAw4Hg8jlE/fVnMfcKEeKJ8ar/llV33arQsnI4ReyfnaS9O3KETVfg5v\nC+SWC3Is7G9rWTMPFX1g3viSktokxmQ52hP0fkt5sfIK0vnyK+Us1uLkjPHhYzYi\n7L5Khj2Hk/gGCMQW6eEb5xY/3b0aA4KMGf3N4oeBAoGBAI3PvgYvAR9HMEkgbVCV\nmzi5YqROVgmw1egzKyvvLOa+bLEQ22zioWC9I2cO9ejj6J4jqYlonQzYD7la8LVV\nO/Dqdjegnzu1IbWuHR58Z5njiHfzmHrFIrWv4L52knSt6EdfS10hDZIalB1vA1SM\nt33sGpmUfYrS7EBoq5/9RZFr\n-----END PRIVATE KEY-----\n",
+  "client_email": "rwa-access@rwa-app-439816.iam.gserviceaccount.com",
+  "client_id": "109727409251891751929",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rwa-access%40rwa-app-439816.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
